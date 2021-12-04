@@ -1,3 +1,4 @@
+<!-- _backgroundColor: white -->
 ![Autodesk Sketchbook banner](https://user-images.githubusercontent.com/32929636/144456164-02fa00cf-130f-4542-b078-65bdf2b8f9f6.png)
 
 # Autodesk-Sketchbook-UWP-Backup
